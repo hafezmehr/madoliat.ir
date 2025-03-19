@@ -1,5 +1,5 @@
-# Madoliat.ir - GitHub Pages Repository  
-This repository hosts the personal homepage of **Dr. Madoliat**, which is published using **GitHub Pages**. You can view the homepage at [www.madoliat.ir](http://www.madoliat.ir).
+# Madoliat.ir - Repository  
+This repository hosts the personal homepage of **Dr. Madoliat**. You can view the homepage at [www.madoliat.ir](http://www.madoliat.ir).
 
 ## How to Edit the Website  
 To modify the content of the website, follow these steps:
@@ -27,6 +27,4 @@ If you want to add a new page to the website (for example, `madoliat.ir/courses`
 3. **View the New Page**  
    - Once the changes are committed and published, the content inside the `index.html` file will be accessible at `madoliat.ir/courses`.
 
-This structure allows you to easily expand the website by adding new sections without modifying the main `index.html` file.  
-
-For further assistance, refer to the [GitHub Pages documentation](https://pages.github.com/) or consult GitHub’s online resources.
+This structure allows you to easily expand the website by adding new sections without modifying the main `index.html` file.
